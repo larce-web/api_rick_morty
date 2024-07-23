@@ -1,4 +1,4 @@
-<h1>Rick and Morty API Consumer</h1>
+<h1>Rick and Morty API Personajes</h1>
 <p>Este proyecto consiste en una aplicación web que consume la API de Rick and Morty para mostrar información sobre los personajes, así como también filtrarlos por nombre, página, episodios y mundos. Está desarrollado utilizando HTML, CSS y JavaScript.</p>
 
 <h2>Características</h2>
